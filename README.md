@@ -1,1 +1,1 @@
-# 2021_Ransomware
+# 2021 Ransomware
